@@ -21,8 +21,9 @@
   </description>
   <url>http://worksapplications.github.com/</url>
   <scm>
-    <connection>scm:git:git@github.com:WorksApplications/worksap-parent.git</connection>
-    <url>https://github.com/WorksApplications/worksap-parent</url>
+    <connection>scm:git:git@github.com/WorksApplications/worksap-parent.git</connection>
+    <developerConnection>scm:git:git@github.com:WorksApplications/worksap-parent.git</developerConnection>
+    <url>git@github.com:WorksApplications/worksap-parent.git</url>
   </scm>
   <dependencyManagement>
     <dependencies>
