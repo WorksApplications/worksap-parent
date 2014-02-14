@@ -39,6 +39,8 @@ History
     - upgrade dependencies and libraries
     - correct typo in `<name>`
     - update `<url>`
+- 1.1.0 (2014/Feb/??)
+    - switch from mockito-all to mockito-core
 
 License
 -------
