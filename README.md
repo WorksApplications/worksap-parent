@@ -14,7 +14,7 @@ Add `<parent>` into your pom.xml.
   <parent>
     <groupId>jp.co.worksap.oss</groupId>
     <artifactId>worksap-parent</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
   </parent>
   ...
 </project>
@@ -35,6 +35,9 @@ History
     - added license information
 - 1.0.2 (2013/Apr/11)
     - upgrade dependencies
+- 1.0.3 (2014/Feb/??)
+    - upgrade dependencies and libraries
+    - correct typo in `<name>`
 
 License
 -------
