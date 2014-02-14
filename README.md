@@ -41,6 +41,7 @@ History
     - update `<url>`
 - 1.1.0 (2014/Feb/??)
     - switch from mockito-all to mockito-core
+    - change jsr305 to optional dependency
 
 License
 -------
