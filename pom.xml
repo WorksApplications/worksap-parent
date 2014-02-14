@@ -5,7 +5,7 @@
   <artifactId>worksap-parent</artifactId>
   <version>1.0.3-SNAPSHOT</version><!-- see http://semver.org/ -->
   <packaging>pom</packaging>
-  <name>WorksApplication OSS Parent</name>
+  <name>WorksApplications OSS Parent</name>
   <parent>
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
