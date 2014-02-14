@@ -38,6 +38,7 @@ History
 - 1.0.3 (2014/Feb/??)
     - upgrade dependencies and libraries
     - correct typo in `<name>`
+    - update `<url>`
 
 License
 -------

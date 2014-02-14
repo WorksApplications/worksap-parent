@@ -20,7 +20,7 @@
     Child project should override &lt;scm&gt; and &lt;url&gt;,
     and append &lt;licenses&gt; and &lt;developers&gt; to release.
   </description>
-  <url>http://worksapplications.github.com/</url>
+  <url>http://worksapplications.github.io/</url>
   <scm>
     <connection>scm:git:git://github.com/WorksApplications/worksap-parent.git</connection>
     <developerConnection>scm:git:git@github.com:WorksApplications/worksap-parent.git</developerConnection>
