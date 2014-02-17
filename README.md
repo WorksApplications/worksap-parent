@@ -35,11 +35,11 @@ History
     - added license information
 - 1.0.2 (2013/Apr/11)
     - upgrade dependencies
-- 1.0.3 (2014/Feb/??)
+- 1.0.3 (2014/Feb/17)
     - upgrade dependencies and libraries
     - correct typo in `<name>`
     - update `<url>`
-- 1.1.0 (2014/Feb/??)
+- 1.1.0 (2014/Feb/17)
     - switch from mockito-all to mockito-core
     - change jsr305 to optional dependency
 
