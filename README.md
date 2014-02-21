@@ -42,6 +42,8 @@ History
 - 1.1.0 (2014/Feb/17)
     - switch from mockito-all to mockito-core
     - change jsr305 to optional dependency
+- 1.1.1
+    - [fix wrong groupId](https://github.com/WorksApplications/worksap-parent/pull/2)
 
 License
 -------
