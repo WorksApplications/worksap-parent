@@ -14,7 +14,7 @@ Add `<parent>` into your pom.xml.
   <parent>
     <groupId>jp.co.worksap.oss</groupId>
     <artifactId>worksap-parent</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
   </parent>
   ...
 </project>
@@ -42,7 +42,7 @@ History
 - 1.1.0 (2014/Feb/17)
     - switch from mockito-all to mockito-core
     - change jsr305 to optional dependency
-- 1.1.1
+- 1.1.1 (2014/Feb/21)
     - [fix wrong groupId](https://github.com/WorksApplications/worksap-parent/pull/2)
 
 License
