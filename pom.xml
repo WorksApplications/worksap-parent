@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.co.worksap.oss</groupId>
   <artifactId>worksap-parent</artifactId>
-  <version>1.1.2-SNAPSHOT</version><!-- see http://semver.org/ -->
+  <version>1.1.2</version><!-- see http://semver.org/ -->
   <packaging>pom</packaging>
   <name>WorksApplications OSS Parent</name>
   <parent>
