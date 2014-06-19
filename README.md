@@ -44,8 +44,10 @@ History
     - change jsr305 to optional dependency
 - 1.1.1 (2014/Feb/21)
     - [fix wrong groupId](https://github.com/WorksApplications/worksap-parent/pull/2)
-- 1.1.2 (not released yet)
+- 1.1.2 (2014/Jun/19)
     - [use thread-safe version of maven-enforcer-plugin](https://github.com/WorksApplications/worksap-parent/issues/3)
+    - upgrade dependencies
+    - set `3.2.1` to the value of `prerequisites.maven` to help versions-maven-plugin
 
 License
 -------
