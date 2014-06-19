@@ -14,7 +14,7 @@ Add `<parent>` into your pom.xml.
   <parent>
     <groupId>jp.co.worksap.oss</groupId>
     <artifactId>worksap-parent</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
   </parent>
   ...
 </project>
