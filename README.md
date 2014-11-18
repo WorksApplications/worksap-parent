@@ -48,6 +48,8 @@ History
     - [use thread-safe version of maven-enforcer-plugin](https://github.com/WorksApplications/worksap-parent/issues/3)
     - upgrade dependencies
     - set `3.2.1` to the value of `prerequisites.maven` to help versions-maven-plugin
+- 1.1.3 (2014/Nov/18)
+    - upgrade dependencies
 
 License
 -------
