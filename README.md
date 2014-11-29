@@ -14,7 +14,7 @@ Add `<parent>` into your pom.xml.
   <parent>
     <groupId>jp.co.worksap.oss</groupId>
     <artifactId>worksap-parent</artifactId>
-    <version>1.1.2</version>
+    <version>1.1.4</version>
   </parent>
   ...
 </project>
@@ -50,6 +50,8 @@ History
     - set `3.2.1` to the value of `prerequisites.maven` to help versions-maven-plugin
 - 1.1.3 (2014/Nov/18)
     - upgrade dependencies
+- 1.1.4 (2014/Nov/29)
+    - release of 1.1.3 (no future is added)
 
 License
 -------
